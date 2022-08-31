@@ -10,7 +10,7 @@ dependencies:
   package_info: ^2.0.1 # アプリのバージョン取得用
   firebase_remote_config: ^0.10.0 # FireBaseからバージョンを取得する用
   shared_preferences: ^2.0.6 #ローカルにデータ保存
-  firebase_core: ^1.4.0
+  firebase_core: ^1.21.1
   firebase_auth: ^3.0.1
   cloud_firestore: ^2.4.0
   image_picker: ^0.8.2
